@@ -22,7 +22,7 @@
       "id": 4,
       "name": "Slinky Dog",
       "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "likes": 5
     },
     {
       "id": 5,
@@ -40,13 +40,25 @@
       "id": 7,
       "name": "Hamm",
       "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "likes": 1
     },
     {
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 1
+    },
+    {
+      "name": "Jessie",
+      "image": "https://media.istockphoto.com/photos/jessie-and-woody-toy-story-characters-picture-id458579941",
+      "likes": 3,
+      "id": 9
+    },
+    {
+      "name": "Human Jess",
+      "image": "https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_500x500_$&$product=PartyCity/P842738_04",
+      "likes": 3,
+      "id": 10
     }
   ]
 }
